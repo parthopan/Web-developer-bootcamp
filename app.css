@@ -1,0 +1,17 @@
+html {
+	background: url(https://spark.adobe.com/images/landing/examples/hiking-fb-cover.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+h2 {
+	color: #fff;
+	border: 1px	solid #fff; 
+}
+h4{
+	color: #fff;
+}
+li{
+	color: #fff;
+}
