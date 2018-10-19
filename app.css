@@ -1,10 +1,11 @@
-html {
+/*html {
 	background: url(https://spark.adobe.com/images/landing/examples/hiking-fb-cover.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
+*/
 h2 {
 	color: #fff;
 	border: 1px	solid #fff; 
@@ -14,4 +15,21 @@ h4{
 }
 li{
 	color: #fff;
+}
+/*body{
+	background: url(https://spark.adobe.com/images/landing/examples/hiking-fb-cover.jpg) no-repeat center center fixed;
+	/*width: 100%;*/
+	/*height: 100%;*/
+	/*background-size: cover;*/
+	/*position: absolute;*/
+	/*overflow: hidden;*/
+/*}*/
+/**/
+html{
+	background: url(https://spark.adobe.com/images/landing/examples/hiking-fb-cover.jpg) no-repeat center center fixed;
+	-webkit-wbkit-background-size: cover;
+	-moz-wbkit-background-size: cover;
+	-ms-wbkit-background-size: cover;
+	-o-wbkit-background-size: cover;
+	background-size: cover;
 }
